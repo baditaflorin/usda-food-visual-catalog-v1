@@ -2,6 +2,11 @@
 
 # NutriArt: USDA Visual Catalog
 
+<img width="536" height="800" alt="image" src="https://github.com/user-attachments/assets/1e2b8d46-84d2-409d-a2d0-b42de317e51d" />
+
+<img width="540" height="808" alt="image" src="https://github.com/user-attachments/assets/65d98009-7fed-47e0-a2ed-87313403285d" />
+
+
 ## Project Overview
 NutriArt is a tool designed to generate high-quality, artistic visual representations of food items found in the USDA FoodData Central database. It utilizes Google's Gemini Imagen 3 model to create images based on nutritional profiles and commits them directly to a GitHub repository.
 
